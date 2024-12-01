@@ -6,6 +6,7 @@ import { Url } from "next/dist/shared/lib/router/router";
 import { ReactNode, useEffect, useState } from "react";
 import { FaHouse, FaMusic, FaPodcast, FaHeart, FaRightFromBracket, FaUser, FaUserPlus } from "react-icons/fa6";
 import SiderMenuItem from "./SiderMenuItem";
+import { IoMdAdd } from "react-icons/io";
 
 
 export default function SiderMenu() {
@@ -71,7 +72,7 @@ export default function SiderMenu() {
             title: "Đăng Ký",
             link: "/register",
             logged: false
-        },
+        }
     ]
 
     
