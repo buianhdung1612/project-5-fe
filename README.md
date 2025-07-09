@@ -102,7 +102,7 @@ Một ứng dụng nghe nhạc hiện đại, được xây dựng với **Next.
 ## 📫 Liên Hệ
 
 - 📧 Email: [buianh09dung@gmail.com](mailto:buianh09dung@gmail.com)
-- 🌐 GitHub: [https://github.com/bui-anh-dung](https://github.com/bui-anh-dung)
+- 🌐 GitHub: [https://github.com/buianhdung1612](https://github.com/buianhdung1612)
 
 ---
 
